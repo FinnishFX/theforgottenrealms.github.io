@@ -1,0 +1,35 @@
+[
+   {
+      "slot": 1,
+      "linkType": 0,
+      "platform": "kabam.com,kongregate,steam,rotmg",
+      "startTime": 1483228800000,
+      "title": "Update 1.2-1 is out!",
+      "image": "https://finnishfx.github.io/tfr/1.2/UpdateNews.png",
+      "endTime": 2006729600000,
+      "linkDetail": "",
+      "priority": 2000
+   },
+   {
+      "slot": 2,
+      "linkType": 2,
+      "platform": "kabam.com,kongregate,steam,rotmg",
+      "startTime": 1483228800000,
+      "title": "Free eggs!",
+      "image": "https://finnishfx.github.io/tfr/1.2/UpdateTeaser.png",
+      "endTime": 4080326400000,
+      "linkDetail": "2",
+      "priority": 2001
+   },
+   {
+      "slot": 3,
+      "linkType": 1,
+      "platform": "kabam.com,kongregate,steam,rotmg",
+      "startTime": 1483228800000,
+      "title": "Join us!",
+      "image": "https://finnishfx.github.io/tfr/static/DiscordBanner.png",
+      "endTime": 4080326400000,
+      "linkDetail": "https://discord.gg/heuxfeV",
+      "priority": 2002
+   }
+]
